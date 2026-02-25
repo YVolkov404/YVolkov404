@@ -2,6 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&size=36&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What's+up+guys!;+Yuriy+in+touch!;" />
 </h1>
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb" /><br>
+</div>
+
 <!--
 **YVolkov404/YVolkov404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
